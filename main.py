@@ -65,6 +65,7 @@ def start_med():
     global RANDOM_GUESS
     randomGuess = random.randint(0, 100)
     RANDOM_GUESS = randomGuess
+    main_image.config(file="img/start.png")
     BIG_NUM = 100
     display_text.config(text=f"the number is between 0 - {BIG_NUM}")
     sound(4)
