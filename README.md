@@ -88,3 +88,7 @@ Have an idea or found a bug? Open an issue or submit a PR. Contributions are wel
 
 - Meme faces sourced from popular memes (for educational/demo use).
 - Built with ❤️ by Mohamad Sayour
+
+---
+## ⚡ Note 
+the **right number** is diplayed in the top left corner (same place as the icon) so you can trick your friends 😂
