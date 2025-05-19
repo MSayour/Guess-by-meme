@@ -119,7 +119,7 @@ def check_win():
             sound(-2)
     else:
         main_image.config(file="img/loss.png")
-        display_text.config(text=f"YOU LOST THE NUMBER WAS {random_guess}")
+        display_text.config(text=f"YOU LOST THE NUMBER IS {random_guess}")
         sound(0)
     NUM_OF_TRY -= 1
 
